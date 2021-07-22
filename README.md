@@ -1,2 +1,2 @@
-# JAVA-
+# JAVA-note
 这是本人上传的JAVA【IDEA】版本语法，持续更新中……
